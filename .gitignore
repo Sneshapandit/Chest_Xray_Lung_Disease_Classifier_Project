@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.venv/
+.env
+
+# Data, models and outputs
+/data/
+/models/
+/outputs/
+*.keras
+*.h5
+*.pkl
+*.npy
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
