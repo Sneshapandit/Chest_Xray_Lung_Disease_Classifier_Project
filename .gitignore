@@ -25,3 +25,16 @@ Thumbs.db
 # Logs
 *.log
 
+
+DENSENET121_MODEL
+RESNET50_MODEL.py
+Training confusion matrix.png
+dataset_labels.csv
+densenet_confusion matrix.png
+labelling.py
+model.py
+resnet confusion matrix.png
+resnettestoutput.png
+tempppp.py
+train2.py
+trainingmodelnew.py
