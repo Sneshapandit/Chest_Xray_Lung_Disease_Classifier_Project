@@ -111,6 +111,3 @@ python run_all.py --train both --infer-model both --input data/raw/pre2kpro/covi
 - Batch runner writes CSV with columns: `model,image,prediction,status,error`.
 - `.gitignore` excludes virtual env, raw data, model binaries, and generated outputs.
 
-## License
-
-Add a license before public release (for example, MIT).
